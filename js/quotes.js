@@ -22,22 +22,6 @@ const quotes =[
     {
         quote: "Praise the lord",
         author: "ASAP",
-    },
-    {
-        quote: "인생은 독고다이",
-        author: "unknown",
-    },
-    {
-        quote: "물 들어올때 노 저어라",
-        author: "pope",
-    },
-    {
-        quote: "같지만 다르고 다르지만 같다",
-        author: "ancle yoong",
-    },
-    {
-        quote: "Have a nice day",
-        author: "wook",
     }
 ];
 
